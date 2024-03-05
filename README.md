@@ -12,7 +12,7 @@
 ## 🏆 My Github Stats
 <p align="center">
 <a href="https://github.com/phuanggh/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats-bice-iota-93.vercel.app/api/top-langs/?username=phuanggh&theme=tokyonight&count-private=true&langs_count=10" />
+  <img align="center" src="https://github-readme-stats-bice-iota-93.vercel.app/api/top-langs/?username=phuanggh&theme=ambient_gradient&count-private=true&langs_count=7&layout=compact" />
 </a>
 
 </p>

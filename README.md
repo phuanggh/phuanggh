@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="40" style="vertical-align:top; margin:4px">
           
 ## 🏆 My Github Stats
-[![Top Langs](https://github-readme-stats-escy.vercel.app/api/top-langs/?username=phuanggh)](https://github.com/phuanggh/github-readme-stats)
+[![Top Langs](https://github-readme-stats-bice-iota-93.vercel.app/api/top-langs/?username=phuanggh&count-private=true&langs_count=10)](https://github.com/phuanggh/github-readme-stats)
 
 </p>
 

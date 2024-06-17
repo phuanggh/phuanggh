@@ -9,11 +9,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="40" style="vertical-align:top; margin:4px">
           
-## 🏆 My Github Stats
+## 📊 My Github Stats
 <p align="center">
 <a href="https://github.com/phuanggh/github-readme-stats">
   <img align="center" src="https://github-readme-stats-bice-iota-93.vercel.app/api/top-langs/?username=phuanggh&theme=moltack&count-private=true&langs_count=7&layout=compact" />
 </a>
 
-</p>
+## 🏆 My LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/phuanggh?ext=heatmap" alt="LeetCode Stats">
+</div>
 
